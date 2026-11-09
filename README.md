@@ -6,7 +6,9 @@
 
 <br><br>
 
-<a href="https://samneh.com">samneh.com</a>
+<a href="https://samneh.com">samneh.com - My Essays</a>
+
+<a href="Al-Samneh.github.io">My Portfolio :)</a>
 
 <br><br>
 
